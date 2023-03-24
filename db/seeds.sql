@@ -1,0 +1,13 @@
+INSERT INTO user (id, name, email, password)
+VALUES  ( 001, "bob", "bob@bob.com, password")
+        ( 002, "bobby", "bobby@bob.com, password2")
+        ( 003, "bobs", "bobs@bob.com, password3")
+        ( 004, "bobington", "bobington@bob.com, password4")
+        ( 005, "bobbeth", "bobbeth@bob.com, password5")
+
+INSERT INTO post (id, name, description)
+VALUES  (001, "Post 1", "This is the first post!")
+        (002, "Post 2", "This is the second post!")
+        (003, "Post 3", "This is the third post!")
+        (004, "Post 4", "This is the fourth post!")
+        (005, "Post 5", "This is the fifth post!")
